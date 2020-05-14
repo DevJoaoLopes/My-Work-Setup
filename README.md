@@ -29,7 +29,7 @@
 
 # 3. Aplications Desktop
 
-- ## **Browser** : Brave Web Browser + translate extension
+- ## **Browser** : *Brave Web Browser + translate extension*
 
 - ## **Music** : Spotify
 
