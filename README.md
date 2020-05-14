@@ -12,7 +12,11 @@
 - **OpenWeather** : *Extension to view weather forecast*
 
 -  **Unite** : *Organize Bar Gnome Shell*
+
+
 ![alt text](configUnite.png "Config Unite")
+
+
 
 -  **Vitals** : *Monitor System*
 *and install*
@@ -65,4 +69,3 @@
     - *Pomodoro*
     - *Rainbow Brackets*
     - *Rocketseat React Native*
-    
