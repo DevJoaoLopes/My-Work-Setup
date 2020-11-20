@@ -61,6 +61,13 @@
     - *Dart*
     - *Dracula Official*
     - *Error Lens*
+    - *HTML Snippets*
+    - *Laravel Extra Intelissense*
+    - *Laravel Snippets*
+    - *PHP Intelephense*
+    - *Prettier*
+    - *vue*
+    - *Vetur*
     - *ESLint*
     - *Flutter*
     - *GitLents*
@@ -69,3 +76,33 @@
     - *Pomodoro*
     - *Rainbow Brackets*
     - *Rocketseat React Native*
+
+## settings.json
+
+~~~json 
+{
+    //Custom Themes
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+
+    //Formatter Vue
+    "eslint.validate": [
+        "vue",
+        "html",
+        "javascript"
+    ],
+    // "editor.formatOnSave": true,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur",
+    },
+    "window.zoomLevel": 0,
+    "php.validate.executablePath": "",
+    
+
+}
+
+
+~~~
